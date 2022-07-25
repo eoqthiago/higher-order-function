@@ -12,4 +12,4 @@ const double = getMulplier(2)
 const tri = getMulplier(3)
 const qua = getMulplier(4)
 
-console.log(double(2))
+console.log(double(2));
